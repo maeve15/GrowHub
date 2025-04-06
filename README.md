@@ -32,7 +32,9 @@ ${\textsf{\color{red}-> 서비스 잡고, AI 기능 추가}}$ <br>
 ${\textsf{\color{red}-> 관계성}}$  <br>
 
 
-[사용 알고리즘] </br>
+<br>
+
+[사용 알고리즘] 
  * YOLO v5
  * EfficientNet
  * Transformer 기반 ViT 모델
